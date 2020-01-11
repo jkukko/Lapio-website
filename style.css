@@ -1,16 +1,18 @@
-
-li {
-    color : pink;
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    padding: 4em lem;
+    color: #555
 }
 
-H1 {
-    color : blue
+h2{
+    margin-top: lem;
+    padding-top: lem;
+    color: #333
 }
 
-h2, p {
-    color : salmon
-}
-
-i {
-    color : red 
+ul {
+    color: black;
 }
